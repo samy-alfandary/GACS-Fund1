@@ -8,6 +8,7 @@ import json
 import random
 from openai import OpenAI
 
+openai_api_key = "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"
 client = OpenAI(api_key=openai_api_key)
 import time 
 
