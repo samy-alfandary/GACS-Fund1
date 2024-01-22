@@ -8,7 +8,7 @@ import json
 import random
 from openai import OpenAI
 
-openai_api_key = "<your key>"
+openai_api_key = "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"
 client = OpenAI(api_key=openai_api_key)
 import time 
 
@@ -268,12 +268,25 @@ def safe_generate_response(prompt,
   return fail_safe_response
 
 
-def get_embedding(text, model="text-embedding-ada-002"):
-  text = text.replace("\n", " ")
-  if not text: 
-    text = "this is blank"
-  return client.embeddings.create(input=[text], model=model)['data'][0]['embedding']
+# def get_embedding(text, model="text-embedding-ada-002"):
+#  text = text.replace("\n", " ")
+#  if not text: 
+#    text = "this is blank"
+#  return client.embeddings.create(input=[text], model=model)['data'][0]['embedding'] 
 
+def get_embedding(text, model="text-embedding-ada-002"):
+    text = text.replace("\n", " ")
+    if not text: 
+        text = "this is blank"
+
+    # Call the OpenAI API to create embeddings
+    response = client.embeddings.create(input=[text], model=model)
+
+    # Extract the embedding data from the response
+    # Adjust the following line based on the actual structure of the response object
+    embedding = response.data[0].embedding
+
+    return embedding
 
 if __name__ == '__main__':
   gpt_parameter = {"engine": "text-davinci-003", "max_tokens": 50, 
