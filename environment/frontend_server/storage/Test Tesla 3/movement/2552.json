@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcec\ud83d\udcac",
+      "description": "checking her computer and responding to urgent emails (checking her emails and responding to any urgent ones) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        54
+      ],
+      "pronunciatio": "\ud83e\udd38\u200d\u2640",
+      "description": "completing her morning routine (stretching and doing some light exercises) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udce7\ud83d\udcac",
+      "description": "working at GACS Fund as a junior analyst (checking his emails and responding to urgent ones) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:05:20"
+  }
+}

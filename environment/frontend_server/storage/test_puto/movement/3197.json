@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        66,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83e\uddd1\u200d",
+      "description": "researching and developing new quantitative strategies for the hedge fund (discussing ideas with Klaus Mueller) @ the Ville:Ryan Park's apartment:main room:computer desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcc4\ud83d\udda5\ufe0f",
+      "description": "attending a morning meeting with her team (preparing any necessary documents or presentations for the meeting) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        102,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda\ud83d\udcbc",
+      "description": "working at GACS Fund as a junior analyst (reviewing and finalizing his reports) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:52:50"
+  }
+}

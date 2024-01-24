@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udce5\ud83d\udd1d",
+      "description": "checking her computer and responding to urgent emails (organizing her inbox and prioritizing tasks) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        120,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about investment opportunities in the technology sector and planning to meet for lunch at Hobbs Cafe to discuss further @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day is going well so far. I've been checking my emails and responding to urgent ones. How about you? How's your morning routine been?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been good. I just finished my morning routine and I'm about to open my computer to check emails and market updates."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great! Have you heard any interesting market updates lately?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, actually. I've been analyzing market trends and developing investment strategies. There are some interesting opportunities emerging in the technology sector."
+        ],
+        [
+          "Klaus Mueller",
+          "That's interesting! I've also been keeping an eye on the technology sector. What specific opportunities have you identified?"
+        ],
+        [
+          "Maria Lopez",
+          "I've identified a few promising tech companies that seem to be undervalued. Would you like me to share my analysis with you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I would love to see your analysis! It sounds like you've found some interesting opportunities. Are these companies in the emerging markets or more established ones?"
+        ],
+        [
+          "Maria Lopez",
+          "They are mostly emerging tech companies, but there are also some established companies that I think have growth potential. I can share the details and my analysis with you if you're interested."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I would definitely be interested in seeing your analysis. Maybe we could grab lunch later and discuss these opportunities further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's grab lunch and discuss these opportunities. How about meeting at Hobbs Cafe at 1:00 pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan. I'll see you at Hobbs Cafe at 1:00 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great! See you at Hobbs Cafe at 1:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard anything about the recent market volatility? I've noticed some major fluctuations in certain sectors."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I've also noticed the recent market volatility. It's definitely something we need to keep an eye on. I'll share my analysis with you during lunch and we can discuss how it may impact our investment strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard anything about the recent market volatility? I've noticed some major fluctuations in certain sectors."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about investment opportunities in the technology sector and planning to meet for lunch at Hobbs Cafe to discuss further @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, my day is going well so far. I've been checking my emails and responding to urgent ones. How about you? How's your morning routine been?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been good. I just finished my morning routine and I'm about to open my computer to check emails and market updates."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great! Have you heard any interesting market updates lately?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, actually. I've been analyzing market trends and developing investment strategies. There are some interesting opportunities emerging in the technology sector."
+        ],
+        [
+          "Klaus Mueller",
+          "That's interesting! I've also been keeping an eye on the technology sector. What specific opportunities have you identified?"
+        ],
+        [
+          "Maria Lopez",
+          "I've identified a few promising tech companies that seem to be undervalued. Would you like me to share my analysis with you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I would love to see your analysis! It sounds like you've found some interesting opportunities. Are these companies in the emerging markets or more established ones?"
+        ],
+        [
+          "Maria Lopez",
+          "They are mostly emerging tech companies, but there are also some established companies that I think have growth potential. I can share the details and my analysis with you if you're interested."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I would definitely be interested in seeing your analysis. Maybe we could grab lunch later and discuss these opportunities further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's grab lunch and discuss these opportunities. How about meeting at Hobbs Cafe at 1:00 pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan. I'll see you at Hobbs Cafe at 1:00 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great! See you at Hobbs Cafe at 1:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard anything about the recent market volatility? I've noticed some major fluctuations in certain sectors."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I've also noticed the recent market volatility. It's definitely something we need to keep an eye on. I'll share my analysis with you during lunch and we can discuss how it may impact our investment strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard anything about the recent market volatility? I've noticed some major fluctuations in certain sectors."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:16:10"
+  }
+}

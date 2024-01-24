@@ -1,0 +1,550 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:38:10",
+  "curr_tile": [
+    113,
+    25
+  ],
+  "daily_plan_req": "Klaus Mueller wakes up and goes to his computer at 7 in the morning to work at GACS Fund as a junior analyst, you stay at work until 5 in the afternoon",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "analytical, strong work ethic, adaptable, reselient, effective communication, team player",
+  "learned": "Klaus Mueller is a rapidly rising star in the world of finance and serves as a Junior Analyst at GACS Fund; With a strong academic background in finance and economics complemented by a passion for technology and emerging markets you have quickly made a name for herself at GACS Fund. Her keen analytical skills, coupled with a natural curiosity about global market trends, make her an invaluable asset to the team..",
+  "currently": "Klaus Mueller is currently working at GACS Fund as a junior analyst.",
+  "lifestyle": "Klaus Mueller goes to bed around 9pm, awakes up around 6am, eats dinner around 8pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 22,
+  "importance_ele_n": 61,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 6:00 am",
+    "have breakfast at 6:30 am",
+    "start work at GACS Fund at 7:00 am",
+    "attend morning team meeting at 9:00 am",
+    "analyze market trends and financial data from 10:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "continue analyzing data and working on reports from 1:00 pm to 5:00 pm",
+    "attend virtual meeting with clients at 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine (waking up and turning off his alarm)",
+      5
+    ],
+    [
+      "waking up and completing his morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "waking up and completing his morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "waking up and completing his morning routine (making breakfast and eating)",
+      20
+    ],
+    [
+      "waking up and completing his morning routine (checking his emails and responding to urgent ones)",
+      10
+    ],
+    [
+      "working at GACS Fund as a junior analyst (checking his emails and responding to urgent ones)",
+      10
+    ],
+    [
+      "working at GACS Fund as a junior analyst (on the way to reviewing the previous day's market trends and news)",
+      0
+    ],
+    [
+      "working at GACS Fund as a junior analyst (conversing about conversing about investment opportunities in the technology sector and planning to meet for lunch at Hobbs Cafe to discuss further)",
+      10
+    ],
+    [
+      "working at GACS Fund as a junior analyst (reviewing the previous day's market trends and news)",
+      10
+    ],
+    [
+      "working at GACS Fund as a junior analyst (analyzing data and creating reports for his current projects)",
+      30
+    ],
+    [
+      "working at GACS Fund as a junior analyst (attending a virtual meeting with his team to discuss progress and updates on projects)",
+      30
+    ],
+    [
+      "working at GACS Fund as a junior analyst (taking a short break to grab a snack and stretch)",
+      10
+    ],
+    [
+      "working at GACS Fund as a junior analyst (reviewing and finalizing his reports)",
+      20
+    ],
+    [
+      "attending the morning team meeting (checking his email for any updates or important information)",
+      5
+    ],
+    [
+      "attending the morning team meeting (reviewing the agenda for the meeting)",
+      10
+    ],
+    [
+      "attending the morning team meeting (preparing any necessary documents or reports for the meeting)",
+      15
+    ],
+    [
+      "attending the morning team meeting (attending the meeting and actively participating in discussions)",
+      30
+    ],
+    [
+      "analyzing market trends and financial data",
+      60
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "having lunch",
+      120
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "attending a virtual meeting with clients",
+      60
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "wrapping up work and preparing for the next day",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "spending quality time with friends or family",
+      60
+    ],
+    [
+      "unwinding and relaxing before bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 9:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "working at GACS Fund as a junior analyst",
+      120
+    ],
+    [
+      "attending the morning team meeting",
+      60
+    ],
+    [
+      "analyzing market trends and financial data",
+      60
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "having lunch",
+      120
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "attending a virtual meeting with clients",
+      60
+    ],
+    [
+      "working on reports and preparing for a virtual meeting with clients",
+      60
+    ],
+    [
+      "wrapping up work and preparing for the next day",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "spending quality time with friends or family",
+      60
+    ],
+    [
+      "unwinding and relaxing before bed",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 9:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:The Willows Market and Pharmacy:store:grocery store shelf",
+  "act_start_time": "February 13, 2023, 08:37:00",
+  "act_duration": 10,
+  "act_description": "working at GACS Fund as a junior analyst (taking a short break to grab a snack and stretch)",
+  "act_pronunciatio": "\ud83e\udd6a\ud83e\uddd8",
+  "act_event": [
+    "Klaus Mueller",
+    "take",
+    "break"
+  ],
+  "act_obj_description": "being restocked",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "grocery store shelf",
+    "restock",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 312
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      113,
+      27
+    ],
+    [
+      113,
+      28
+    ],
+    [
+      113,
+      29
+    ],
+    [
+      113,
+      30
+    ],
+    [
+      112,
+      30
+    ],
+    [
+      111,
+      30
+    ],
+    [
+      110,
+      30
+    ],
+    [
+      109,
+      30
+    ],
+    [
+      109,
+      31
+    ],
+    [
+      109,
+      32
+    ],
+    [
+      108,
+      32
+    ],
+    [
+      107,
+      32
+    ],
+    [
+      106,
+      32
+    ],
+    [
+      105,
+      32
+    ],
+    [
+      104,
+      32
+    ],
+    [
+      103,
+      32
+    ],
+    [
+      102,
+      32
+    ],
+    [
+      101,
+      32
+    ],
+    [
+      100,
+      32
+    ],
+    [
+      99,
+      32
+    ],
+    [
+      98,
+      32
+    ],
+    [
+      97,
+      32
+    ],
+    [
+      96,
+      32
+    ],
+    [
+      95,
+      32
+    ],
+    [
+      94,
+      32
+    ],
+    [
+      93,
+      32
+    ],
+    [
+      92,
+      32
+    ],
+    [
+      91,
+      32
+    ],
+    [
+      90,
+      32
+    ],
+    [
+      89,
+      32
+    ],
+    [
+      88,
+      32
+    ],
+    [
+      87,
+      32
+    ],
+    [
+      86,
+      32
+    ],
+    [
+      85,
+      32
+    ],
+    [
+      84,
+      32
+    ],
+    [
+      83,
+      32
+    ],
+    [
+      83,
+      33
+    ],
+    [
+      83,
+      34
+    ],
+    [
+      83,
+      35
+    ],
+    [
+      83,
+      36
+    ],
+    [
+      83,
+      37
+    ],
+    [
+      83,
+      38
+    ],
+    [
+      83,
+      39
+    ],
+    [
+      83,
+      40
+    ],
+    [
+      83,
+      41
+    ],
+    [
+      83,
+      42
+    ],
+    [
+      83,
+      43
+    ],
+    [
+      84,
+      43
+    ],
+    [
+      85,
+      43
+    ],
+    [
+      86,
+      43
+    ],
+    [
+      86,
+      44
+    ],
+    [
+      86,
+      45
+    ],
+    [
+      86,
+      46
+    ],
+    [
+      87,
+      46
+    ],
+    [
+      87,
+      47
+    ],
+    [
+      87,
+      48
+    ],
+    [
+      87,
+      49
+    ],
+    [
+      86,
+      49
+    ],
+    [
+      85,
+      49
+    ]
+  ]
+}

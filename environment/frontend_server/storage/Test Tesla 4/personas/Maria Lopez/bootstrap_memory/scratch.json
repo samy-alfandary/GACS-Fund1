@@ -1,0 +1,297 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:38:10",
+  "curr_tile": [
+    122,
+    49
+  ],
+  "daily_plan_req": "Maria Lopez opens her computer every morning at 7AM to begin her work as a Hedge Fund Manager at GACS Hedge Fund. Maria Lopez closes her computer and stops working in the afternoon at 5PM",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive, Analytical, disciplined, confident,communicative",
+  "learned": "Maria Lopez is a Hedge Fund manager at GACS Hedge Fund, Maria Lopez loves to work on achieving higher returns for her hedgefund.",
+  "currently": "Maria Lopez is working on her Headge Fund to achieve high returns on her investment strategies.",
+  "lifestyle": "Maria Lopez goes to bed around 9PM, awakes up around 7AM. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 12,
+  "importance_ele_n": 58,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00 am",
+    "open her computer and check emails and market updates at 7:30 am",
+    "attend a morning meeting with her team at 8:00 am",
+    "analyze market trends and develop investment strategies from 9:00 am to 12:00 pm",
+    "have a lunch break at 12:00 pm",
+    "continue working on investment strategies and make trades from 1:00 pm to 3:00 pm",
+    "have a phone call with a client at 3:30 pm",
+    "attend a conference call with other hedge fund managers at 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine (waking up and getting out of bed)",
+      5
+    ],
+    [
+      "completing her morning routine (stretching and doing some light exercises)",
+      10
+    ],
+    [
+      "completing her morning routine (on the way to taking a shower and getting dressed)",
+      0
+    ],
+    [
+      "completing her morning routine (conversing about conversing about investment opportunities in the technology sector and planning to meet for lunch at Hobbs Cafe to discuss further)",
+      10
+    ],
+    [
+      "completing her morning routine (taking a shower and getting dressed)",
+      15
+    ],
+    [
+      "completing her morning routine (making breakfast and eating)",
+      20
+    ],
+    [
+      "completing her morning routine (checking her emails and responding to urgent ones)",
+      10
+    ],
+    [
+      "attending a morning meeting with her team (checking her emails and responding to urgent messages)",
+      10
+    ],
+    [
+      "attending a morning meeting with her team (reviewing the agenda for the meeting)",
+      10
+    ],
+    [
+      "attending a morning meeting with her team (preparing any necessary documents or presentations for the meeting)",
+      30
+    ],
+    [
+      "analyzing market trends and developing investment strategies (reviewing market news and updates)",
+      10
+    ],
+    [
+      "analyzing market trends and developing investment strategies (analyzing market trends and patterns)",
+      20
+    ],
+    [
+      "analyzing market trends and developing investment strategies (researching potential investment opportunities)",
+      15
+    ],
+    [
+      "analyzing market trends and developing investment strategies (discussing ideas with her team)",
+      10
+    ],
+    [
+      "analyzing market trends and developing investment strategies (finalizing her investment strategies)",
+      5
+    ],
+    [
+      "making trades based on her investment strategies",
+      60
+    ],
+    [
+      "having a lunch break",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing to work on investment strategies and making trades",
+      60
+    ],
+    [
+      "attending a conference call with other hedge fund managers",
+      60
+    ],
+    [
+      "having a phone call with a client",
+      60
+    ],
+    [
+      "reviewing her trades and making adjustments",
+      120
+    ],
+    [
+      "finishing up her work for the day and preparing for tomorrow",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "unwinding and relaxing after a long day of work",
+      60
+    ],
+    [
+      "spending time with friends or family",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "attending a morning meeting with her team",
+      60
+    ],
+    [
+      "analyzing market trends and developing investment strategies",
+      60
+    ],
+    [
+      "making trades based on her investment strategies",
+      60
+    ],
+    [
+      "having a lunch break",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "continuing to work on investment strategies and making trades",
+      60
+    ],
+    [
+      "attending a conference call with other hedge fund managers",
+      60
+    ],
+    [
+      "having a phone call with a client",
+      60
+    ],
+    [
+      "reviewing her trades and making adjustments",
+      120
+    ],
+    [
+      "finishing up her work for the day and preparing for tomorrow",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "unwinding and relaxing after a long day of work",
+      60
+    ],
+    [
+      "spending time with friends or family",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "going to bed at 11:00 pm",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 08:32:00",
+  "act_duration": 30,
+  "act_description": "attending a morning meeting with her team (preparing any necessary documents or presentations for the meeting)",
+  "act_pronunciatio": "\ud83d\udcc4\ud83d\udda5\ufe0f",
+  "act_event": [
+    "Maria Lopez",
+    "prepare",
+    "documents or presentations"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd0c\u2757",
+  "act_obj_event": [
+    "common room table",
+    "use",
+    "being"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 312
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}
